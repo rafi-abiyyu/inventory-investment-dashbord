@@ -1,7 +1,7 @@
 # inventory-investment-dashbord
 **Fiber Optic Maintenance Inventory & Investment Dashbord**
 
-Dashbord berasis python yang secara spesifik dibuat untuk mengontrol modal material pekerjaan pemeliharaaan (maintenance) fiber optik telekomunikasi. Dashbord ini menyediakan dua pilihan pelaku (user role)--**Stokis** dan **Investor**. Dengan terintegrasinya data investor dan stockist, Investor dapat melihat report seketika (real time).
+Dashbord berasis python yang secara spesifik dibuat untuk mengontrol modal material pekerjaan pemeliharaaan (maintenance) fiber optik telekomunikasi. Dashbord ini menyediakan dua pilihan pelaku (user role)--**Stokis** dan **Investor** dengan data yang terintegrasi.
 
 **User Role**
 -Meminta user untuk memilih, apakah masuk sebagai Investor atau Stokis.
