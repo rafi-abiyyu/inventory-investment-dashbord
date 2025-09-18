@@ -34,7 +34,7 @@ Untuk setiap material:
 -Summary:
 Penjumlahan (sum) dari semua material: revenue, COGS, Gross Profit, Tax, Net Profit,       Overall Net Margin dan Overall ROI
 
-=======================================================================================
+
 **Requirements**
 -Python 3.8+
 -Package: tabulate
